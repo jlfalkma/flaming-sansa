@@ -16,7 +16,7 @@ using ArtOfTest.WebAii.Silverlight.UI;
 
 using NUnit.Framework;
 using Core = NUnit.Core;
-//using Telerik.TestingFramework.Controls.KendoUI;  //test change
+//using Telerik.TestingFramework.Controls.KendoUI;
 using Telerik.WebAii.Controls.Html;
 using Telerik.WebAii.Controls.Xaml;
 
