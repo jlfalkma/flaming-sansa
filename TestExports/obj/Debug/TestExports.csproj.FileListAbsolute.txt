@@ -1,0 +1,14 @@
+C:\Program Files (x86)\Jenkins\jobs\First Job\workspace\TestExports\bin\Debug\TestExports.dll
+C:\Program Files (x86)\Jenkins\jobs\First Job\workspace\TestExports\bin\Debug\TestExports.pdb
+C:\Program Files (x86)\Jenkins\jobs\First Job\workspace\TestExports\bin\Debug\nunit.core.dll
+C:\Program Files (x86)\Jenkins\jobs\First Job\workspace\TestExports\bin\Debug\nunit.framework.dll
+C:\Program Files (x86)\Jenkins\jobs\First Job\workspace\TestExports\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\jobs\First Job\workspace\TestExports\obj\Debug\TestExports.dll
+C:\Program Files (x86)\Jenkins\jobs\First Job\workspace\TestExports\obj\Debug\TestExports.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\bin\Debug\TestExports.dll
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\bin\Debug\TestExports.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\bin\Debug\nunit.core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\bin\Debug\nunit.framework.dll
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\obj\Debug\TestExports.dll
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\obj\Debug\TestExports.pdb

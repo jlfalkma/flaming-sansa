@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\bin\Debug\TestExports.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-04-30" time="09:24:32">
+  <environment nunit-version="2.6.2.12296" clr-version="4.0.30319.544" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Jeremy" machine-name="ESPER" user="Jeremy" user-domain="ESPER" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\bin\Debug\TestExports.dll" executed="True" result="Success" success="True" time="12.789" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="testsignup" executed="True" result="Success" success="True" time="12.778" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="add_edit_event_error_reminder_MBUnitTest" executed="True" result="Success" success="True" time="12.777" asserts="0">
+            <categories>
+              <category name="round one" />
+            </categories>
+            <results>
+              <test-suite type="ParameterizedTest" name="add_edit_event_error_reminder_MB" executed="True" result="Success" success="True" time="12.764" asserts="0">
+                <results>
+                  <test-case name="testsignup.add_edit_event_error_reminder_MBUnitTest.add_edit_event_error_reminder_MB(InternetExplorer)" executed="True" result="Success" success="True" time="12.755" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

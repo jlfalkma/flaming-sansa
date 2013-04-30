@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1003]C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\bin\Debug\TestExports.dll</TopNode>
+  <SelectedNode>[0-1002]testsignup.add_edit_event_error_reminder_MBUnitTest.add_edit_event_error_reminder_MB(InternetExplorer)</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\bin\Debug\TestExports.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]testsignup" Expanded="true" />
+    <Node UniqueName="[0-1000]testsignup.add_edit_event_error_reminder_MBUnitTest" Expanded="true" />
+    <Node UniqueName="[0-1001]testsignup.add_edit_event_error_reminder_MBUnitTest.add_edit_event_error_reminder_MB" Expanded="true" />
+  </Nodes>
+</VisualState>
