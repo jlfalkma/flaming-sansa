@@ -12,3 +12,10 @@ C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\bin\Debug\nuni
 C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\obj\Debug\TestExports.dll
 C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\TestExports\obj\Debug\TestExports.pdb
+C:\Users\Jeremy\Desktop\flaming-sansa\TestExports\bin\Debug\TestExports.dll
+C:\Users\Jeremy\Desktop\flaming-sansa\TestExports\bin\Debug\TestExports.pdb
+C:\Users\Jeremy\Desktop\flaming-sansa\TestExports\bin\Debug\nunit.core.dll
+C:\Users\Jeremy\Desktop\flaming-sansa\TestExports\bin\Debug\nunit.framework.dll
+C:\Users\Jeremy\Desktop\flaming-sansa\TestExports\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeremy\Desktop\flaming-sansa\TestExports\obj\Debug\TestExports.dll
+C:\Users\Jeremy\Desktop\flaming-sansa\TestExports\obj\Debug\TestExports.pdb
